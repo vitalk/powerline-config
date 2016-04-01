@@ -32,6 +32,17 @@
         "warning":                  { "fg": "brightyellow", "bg": "darkorange", "attrs": ["bold"] },
         "current_tag":              { "fg": "gray9", "bg": "gray2", "attrs": [] },
 
+        "ctrlp:background":         { "fg": "brightpurple", "bg": "darkestpurple", "attr": [] },
+        "ctrlp:prev":               { "fg": "white", "bg": "mediumpurple", "attr": [] },
+        "ctrlp:next":               { "fg": "white", "bg": "mediumpurple", "attr": [] },
+        "ctrlp:item":               { "fg": "darkestpurple", "bg": "white", "attr": ["bold"] },
+        "ctrlp:focus":              { "fg": "white", "bg": "red", "attr": [] },
+        "ctrlp:byfname":            { "fg": "red", "bg": "white", "attr": [] },
+        "ctrlp:regex":              { "fg": "white", "bg": "red", "attr": [] },
+        "ctrlp:marked":             { "fg": "brightpurple", "bg": "darkestpurple", "attr": [] },
+        "ctrlp:progress":           { "fg": "brightpurple", "bg": "darkestpurple", "attr": [] },
+        "ctrlp:count":              { "fg": "darkestpurple", "bg": "white", "attr": [] },
+
         "tab_nc:modified_indicator": { "fg": "brightyellow", "bg": "gray2", "attrs": ["bold"] }
     },
     "mode_translations": {

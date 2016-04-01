@@ -17,7 +17,8 @@
                 "help": "help",
                 "quickfix": "quickfix",
 
-                "matchers.vim.fugitive.commit": "fugitive"
+                "matchers.vim.fugitive.commit": "fugitive",
+                "matchers.vim.ctrlp.ctrlp": "ctrlp"
             }
         }
     }
