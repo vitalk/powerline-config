@@ -15,7 +15,9 @@
 
                 "cmdwin": "cmdwin",
                 "help": "help",
-                "quickfix": "quickfix"
+                "quickfix": "quickfix",
+
+                "matchers.vim.fugitive.commit": "fugitive"
             }
         }
     }

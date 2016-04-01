@@ -24,14 +24,8 @@
             "contents": " "
         },
 
-        "powerline.segments.common.uptime": {
-            "before": "⇑  "
-        },
-        "powerline.segments.common.virtualenv": {
-            "before": "ⓔ  "
-        },
-        "powerline.segments.common.hostname": {
-            "before": " "
+        "time": {
+            "before": " "
         },
 
         "powerline.segments.vim.mode": {
